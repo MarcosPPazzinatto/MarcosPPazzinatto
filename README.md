@@ -1,6 +1,6 @@
 # Hello, I'm Marcos Paulo Pazzinatto
 
-**Staff Site Reliability Engineer** • **Tech Leader** • **Cloud & Kubernetes Enthusiast** 🚀  
+**Staff Site Reliability Engineer** • **Tech Leader** • **Cloud & Kubernetes Enthusiast**  
 Focused on observability, security, and high availability in mission-critical systems.
 
 ---
