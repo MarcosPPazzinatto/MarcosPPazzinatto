@@ -16,7 +16,7 @@ I also enjoy working with **electronics and automation** using Arduino, Raspberr
 
 ### Technical Skills
 
-- **Languages:** Java, Ruby, Go, Python, R, Scala, SQL, Shell Script, Bash, C, C++, PHP  
+- **Languages:** Java, Ruby, Go, Python, R, Scala, Rust, SQL, Shell Script, Bash, C, C++, PHP  
 - **Cloud Platforms:** AWS (EKS, EC2, S3, RDS, IAM), GCP (GKE, CloudSQL, BigQuery), Oracle Cloud  
 - **Containers & Orchestration:** Kubernetes, Docker, Docker Swarm  
 - **Infrastructure as Code (IaC):** Terraform, Helm, Kubernetes Manifests  
