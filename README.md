@@ -43,6 +43,7 @@ I also enjoy working with **electronics and automation** using Arduino, Raspberr
 
 ### Education
 
+- **Data Science Professional Certificate**, Harvard University (2024-2025)
 - **MSc in Machine Learning & Software Engineering**, UTFPR (2019–2021)  
 - **Postgraduate in Networks & Telecom**, FAE Centro Universitário (2015–2016)  
 - **Technology in Internet Systems**, FAE Centro Universitário (2009–2014)
