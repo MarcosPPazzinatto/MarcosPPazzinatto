@@ -7,7 +7,7 @@ Focused on observability, security, and high availability in mission-critical sy
 
 ### About Me
 
-I am a passionate technology leader with over **15 years of experience** in software development, site reliability engineering (SRE), and cloud infrastructure.  
+I am a passionate technology leader with over **17 years of experience** in software development, site reliability engineering (SRE), and cloud infrastructure.  
 I specialize in strategic delivery management, cloud architecture, and team leadership — ensuring scalable, high-performance, and cost-effective solutions.
 
 I also enjoy working with **electronics and automation** using Arduino, Raspberry Pi, and Udoo Quad, building systems that blend software and hardware in smart and creative ways.
